@@ -31,7 +31,7 @@ gem 'devise', '~> 3.5', '>= 3.5.6'
 
 gem 'sass-rails', '~> 5.0', '>= 5.0.4'
 
-gem "activeadmin", github: "gregbell/active_admin", branch: "master"
+gem "activeadmin", :git => "git://github.com/gregbell/active_admin.git"
 
 gem 'will_paginate', '~> 3.0.6'
 
